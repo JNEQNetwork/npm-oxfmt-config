@@ -118,15 +118,13 @@ Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-oxfmt-c
 
 [**@igorskyflyer/astro-render-component**](https://www.npmjs.com/package/@igorskyflyer/astro-render-component)
 
-> _🤖 Astro component renderer. Zero configuration. Produces clean HTML strings directly in Node.js
-> without any DOM environment. 🐬_
+> _🤖 Astro component renderer. Zero configuration. Produces clean HTML strings directly in Node.js without any DOM environment. 🐬_
 
 <br>
 
 [**@igorskyflyer/adblock-filter-counter**](https://www.npmjs.com/package/@igorskyflyer/adblock-filter-counter)
 
-> _🐲 A lightweight npm module for counting ad-block filter rules, ultra-simple, fast, and perfect
-> for list maintainers, filter testers, and privacy tool developers.🦘_
+> _🐲 A lightweight npm module for counting ad-block filter rules, ultra-simple, fast, and perfect for list maintainers, filter testers, and privacy tool developers.🦘_
 
 <br>
 
@@ -138,9 +136,7 @@ Licensed under the [**MIT license**](https://github.com/igorskyflyer/npm-oxfmt-c
 
 [**@igorskyflyer/magic-string**](https://www.npmjs.com/package/@igorskyflyer/magic-string)
 
-> _🧵 An expressive and chainable library for advanced string manipulations. Supports appending,
-> prepending, trimming, quoting, and path formatting with customizable whitespace handling. Makes
-> advanced String manipulations a piece of cake. 🦥_
+> _🧵 An expressive and chainable library for advanced string manipulations. Supports appending, prepending, trimming, quoting, and path formatting with customizable whitespace handling. Makes advanced String manipulations a piece of cake. 🦥_
 
 <br>
 
