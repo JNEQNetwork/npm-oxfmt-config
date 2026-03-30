@@ -1,22 +1,38 @@
 {
   "name": "@igorskyflyer/oxfmt-config",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "✨ Pixel-perfect code formatting opinions, oxfmt-powered and ready to extend. ⚓",
-  "type": "module",
-  "sideEffects": false,
-  "files": [
-    ".oxfmtrc.json"
-  ],
-  "engines": {
-    "node": ">=24.0"
-  },
   "exports": {
     ".": "./.oxfmtrc.json"
   },
+  "files": [
+    ".oxfmtrc.json"
+  ],
   "scripts": {
     "pub": "git push origin main --tags"
   },
-  "keywords": [
+    "peerDependencies": {
+    "oxfmt": "^0.42.0"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.42.0"
+  },
+  "packageManager": "pnpm@10.33.0",
+  "private": false,
+    "publishConfig": {
+    "access": "public"
+  },
+  "license": "MIT",
+  "author": "Igor Dimitrijević <support@igorskyflyer.me> (https://github.com/igorskyflyer)",
+  "funding": "https://ko-fi.com/igorskyflyer",
+  "homepage": "https://github.com/igorskyflyer/npm-oxfmt-config",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igorskyflyer/npm-oxfmt-config.git"
+  },
+  "bugs": {
+    "url": "https://github.com/igorskyflyer/npm-npm-oxfmt-config/issues"
+  },  "keywords": [
     "oxc",
     "oxfmt",
     "tooling",
@@ -30,26 +46,5 @@
     "config",
     "igor dimitrijević",
     "igorskyflyer"
-  ],
-  "license": "MIT",
-  "author": "Igor Dimitrijević <support@igorskyflyer.me> (https://github.com/igorskyflyer)",
-  "funding": "https://ko-fi.com/igorskyflyer",
-  "homepage": "https://github.com/igorskyflyer/npm-oxfmt-config",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/igorskyflyer/npm-oxfmt-config.git"
-  },
-  "bugs": {
-    "url": "https://github.com/igorskyflyer/npm-npm-oxfmt-config/issues"
-  },
-  "peerDependencies": {
-    "oxfmt": "^0.41.0"
-  },
-  "devDependencies": {
-    "oxfmt": "^0.41.0"
-  },
-  "publishConfig": {
-    "access": "public"
-  },
-  "packageManager": "pnpm@10.32.1"
+  ]
 }
