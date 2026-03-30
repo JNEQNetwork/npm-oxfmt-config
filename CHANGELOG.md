@@ -4,8 +4,9 @@
 
 <br>
 
-## v1.0.1 – _2026-03-30_
+## v1.1.0 – _2026-03-30_
 
+- 📦 **deps**: update `oxfmt` to `0.42.0`
 - 🔩 **config**: update `printWidth` to `80`
 - 📚 **docs**: update examples and `printWidth` in README
 
